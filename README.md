@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ Hola Mundo!  
+ 
+  Soy Angie Perdomo, apasionada por la programación y la tecnología! 😄 💻
+
+Soy Full Stack Web Developer 🎓 del bootcamp de Henry, me interesa el mundo del desarrollo de software y también  el aprendizaje constante de nuevas tecnologías.
